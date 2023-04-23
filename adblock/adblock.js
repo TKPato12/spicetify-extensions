@@ -52,6 +52,8 @@
     }
     setInterval(delayAds, 720 * 10000);
 
+    spicetify config extensions adblock.js
+spicetify apply
 
 })()
 
